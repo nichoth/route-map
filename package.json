@@ -4,13 +4,13 @@
   "description": "Match a url from an object of route patterns",
   "main": "index.js",
   "scripts": {
-    "test": "prova"
+    "test": "node test.js"
   },
   "dependencies": {
     "path-to-regexp": "0.0.x"
   },
   "devDependencies": {
-    "prova": "*"
+    "tape": "^4.5.1"
   },
   "keywords": [
     "match",
@@ -20,9 +20,8 @@
     "router"
   ],
   "repository": {
-    "url": "git@github.com:azer/route-map.git",
+    "url": "git@github.com:nichoth/route-map.git",
     "type": "git"
   },
-  "author": "Azer Koçulu <azer@kodfabrik.com>",
-  "license": "BSD"
+  "author": "Nick Thomas <nichoth@gmail.com>"
 }
