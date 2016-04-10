@@ -1,6 +1,8 @@
 ## route-map
 
-Match a url from an object of route patterns
+Match a url from an object of route patterns.
+
+Republished from @azer.
 
 ## Install
 

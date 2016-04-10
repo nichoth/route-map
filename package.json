@@ -20,8 +20,13 @@
     "router"
   ],
   "repository": {
-    "url": "git@github.com:nichoth/route-map.git",
+    "url": "git+ssh://git@github.com/nichoth/route-map.git",
     "type": "git"
   },
-  "author": "Nick Thomas <nichoth@gmail.com>"
+  "author": "Nick Thomas <nichoth@gmail.com>",
+  "bugs": {
+    "url": "https://github.com/nichoth/route-map/issues"
+  },
+  "homepage": "https://github.com/nichoth/route-map#readme",
+  "license": "ISC"
 }
