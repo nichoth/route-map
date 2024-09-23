@@ -7,7 +7,7 @@
     "test": "node test.js"
   },
   "dependencies": {
-    "path-to-regexp": "0.0.x"
+    "path-to-regexp": "8.1.x"
   },
   "devDependencies": {
     "tape": "^4.5.1"
